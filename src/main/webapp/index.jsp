@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>NexusShop — Modern E-Commerce - I am Learning Devops</title>
+    <title>NexusShop — Modern E-Commerce</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -2057,7 +2057,7 @@
                         class="section-title"
                         id="prod-title">
 
-                        Popular Right Now
+                        Popular Right Now, I am vamsi learning DevOps
 
                     </h2>
 
